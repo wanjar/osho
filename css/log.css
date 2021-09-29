@@ -1,0 +1,104 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face{
+	font-family: "lato";
+	src:url("../fonts/Lato-Regular.ttf") format("truetype");
+	
+}
+
+
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	background-image: url(../img/adminbackground.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.background{
+	width: 38%;
+	height: 500px;
+	background-color: #040833;
+	position: absolute;
+	top: 15%;
+	left: 33%;
+	border-radius: 30px;
+}
+
+ .img{
+	position: absolute;
+	top: 7%;
+	left: 33%;
+}
+
+form{
+	color: #0C0C66;
+	padding: 170px 0 0 90px;
+	font-family: lato;
+	font-weight: 300;
+
+}
+
+input{
+	width: 80%;
+	height:40px;
+	margin: 5px auto;
+	padding: 10px 5px 10px 30px;
+	color: #0C0C66;
+}
+
+#user{
+	position: absolute;
+	top: 30%;
+	left: 15px;
+}
+
+#pass{
+	position: absolute;
+	top: 46%;
+	left: 15px;
+}
+
+#btn{
+	text-align: center;
+	padding: 0;
+	margin: 50px 0px 0 25px;
+	width: 70%;
+	height: 50px;
+	background-color: #0C0C6600;
+	border: solid white; 
+	border-radius: 50px;
+	color: white;
+	font-size: 20px;
+	font-weight: 500;
+	cursor: pointer;
+}
+
+#btn:hover{
+	background-color: #1B19B7;
+	border: solid #1B19B7; 
+}
+
+a{
+	text-decoration: none;
+}
+
+.text-s{
+	text-align: center;
+}
+
+p{
+	color: white;
+	padding: 5% 0;
+	cursor: pointer;
+}
+
+p:hover{
+	color: darkred;
+}
+
