@@ -3413,7 +3413,7 @@ li {
 }
 
 .brand-one__carousel img {
-  opacity: 0.3;
+  opacity: 0.8;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
