@@ -1707,3 +1707,37 @@ p1{
   font-size: 13px;
   color: #ddd;
 }
+
+/* CSS changes by Digital Platforms ASP */
+
+/*Grid added on about us>our values */
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-rows: repeat(2);
+ 
+  padding: 2px;
+}
+.grid-item {
+  
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+
+
+.right {
+
+  text-align: left;
+  font-weight:bold;
+}
+
+.left{
+
+
+text-align: right;
+
+}
+
+/* End */
