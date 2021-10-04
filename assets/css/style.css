@@ -2452,7 +2452,7 @@ li {
 .counter_one_box:before {
   position: absolute;
   top: 10px;
-  left: -50000px;
+  left: 0px;
   bottom: 0;
   right: 0;
   background: #ffffff;
