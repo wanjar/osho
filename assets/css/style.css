@@ -2434,7 +2434,7 @@ li {
 .counter_one_content:before {
   position: absolute;
   top: 0;
-  left: -50000px;
+  left: 0px;
   border-top-right-radius: 4px;
   right: 0;
   height: 10px;
