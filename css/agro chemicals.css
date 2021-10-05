@@ -944,6 +944,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 /* Portfolio Section
 --------------------------------*/
+
+.filter-remove{
+  visibility: hidden;
+}
 #portfolio {
   padding: 60px 0;
 }
@@ -974,6 +978,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #C80D10;
   color: #fff;
 }
+
+
 
 #portfolio #portfolio-flters li:last-child {
   margin-right: 0;
