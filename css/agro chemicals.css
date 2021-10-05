@@ -1065,7 +1065,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio .portfolio-item .portfolio-info h4 {
   font-size: 15px;
-  line-height: 1px;
+  line-height: 1em;
   font-weight: 700;
   margin-bottom: 18px;
   padding-bottom: 0;
