@@ -950,6 +950,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 #portfolio {
   padding: 60px 0;
+  
 }
 
 #portfolio #portfolio-flters {
@@ -996,7 +997,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio .portfolio-item {
   position: relative;
-  height: 360px;
+  height: 400px;
   overflow: hidden;
 }
 
